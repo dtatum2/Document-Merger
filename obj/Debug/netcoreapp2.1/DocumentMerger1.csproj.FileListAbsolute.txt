@@ -1,0 +1,11 @@
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/bin/Debug/netcoreapp2.1/DocumentMerger1.deps.json
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/bin/Debug/netcoreapp2.1/DocumentMerger1.runtimeconfig.json
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/bin/Debug/netcoreapp2.1/DocumentMerger1.runtimeconfig.dev.json
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/bin/Debug/netcoreapp2.1/DocumentMerger1.dll
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/bin/Debug/netcoreapp2.1/DocumentMerger1.pdb
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/obj/Debug/netcoreapp2.1/DocumentMerger1.csprojAssemblyReference.cache
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/obj/Debug/netcoreapp2.1/DocumentMerger1.csproj.CoreCompileInputs.cache
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/obj/Debug/netcoreapp2.1/DocumentMerger1.AssemblyInfoInputs.cache
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/obj/Debug/netcoreapp2.1/DocumentMerger1.AssemblyInfo.cs
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/obj/Debug/netcoreapp2.1/DocumentMerger1.dll
+/Users/damontatumii/Projects/DocumentMerger1/DocumentMerger1/obj/Debug/netcoreapp2.1/DocumentMerger1.pdb
